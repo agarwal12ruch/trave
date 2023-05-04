@@ -1,0 +1,76 @@
+#ruch1{
+    /* border: 4px; */
+    color:rgb(111 41 142);
+    /* background-color:rgb(227 61 61 / 28%); */
+    border-radius: 10px;
+    font-family:Lobster;
+    text-align: left;
+    text-decoration: underline;
+    margin: 14px 26px
+}
+.ruch5 li a :hover{
+    color: rgb(2, 0, 0);
+    background-color: aqua;
+}
+#ruch4{
+    font-size: 200%;
+    font-family: "Alkatra";
+}
+body{
+    background-image: url("autumn.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: 146px;
+  margin-top:-364px;
+  width: 23%;
+border-radius:26px ;
+}
+#ruch2{
+    font-family:"satisfy";
+    font-size: 30px;
+    color: rgb(60 20 20);
+}
+.ruch3{
+    margin-top: 4px;
+    margin-bottom: 3px;
+    margin-left:42px;
+    font-family:"cursive";
+    background-color: rgb(138, 233, 157);
+    border-radius: 4px;
+}
+.ruch5{
+    background-color: rgb(88, 55, 8);
+    overflow:auto;
+}
+.ruch5 li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: yellow;
+}
+.ruch5 li a :visited{
+    color:aquamarine;
+   
+}
+.ruch5 ul{
+        list-style-type: none;
+        margin: 0px;
+        padding: 7px;
+        float: right;
+        overflow: auto;
+
+}
+.ruch5 li{
+   float:left;
+    margin: 2px 35px;
+}
+/* .ruch6{
+    border:3px;
+    border-style: groove;
+    border-color: #f85761;
+    border-radius: 12px;
+} */

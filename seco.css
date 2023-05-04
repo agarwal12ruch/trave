@@ -1,0 +1,65 @@
+h1 {
+    color: blue;
+    background-color: blueviolet;
+    border-color: black;
+    font-family: cursive;
+}
+
+#sanchi {
+    /* color: greenyellow; */
+    color: rgb(101, 9, 239);
+    background-color: hotpink;
+    height: 122px;
+    width: 141px;
+    border-top: 4px solid rgb(31, 3, 74);
+    border-left: 4px solid green;
+    border-right: 4px solid darkred;
+    border-bottom: 4px solid rgb(62, 6, 6);
+    border-top-right-radius:14px ;
+    border-top-left-radius:5px ;
+    border-bottom-right-radius:14px ;
+    border-bottom-left-radius:5px ;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+
+
+}
+
+#ruchi {
+    color: purple;
+}
+
+span,
+footer {
+    background-color: lightcoral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    color: brown;
+    font-weight: bold;
+    line-height: 2em;
+}
+
+#colours {
+    color: rgb(5, 48, 8);
+    background-color: rgb(250, 239, 13);
+    height: 100px;
+    width:100px;
+    border: 4px solid rgb(8, 66, 8);
+    font-family:cursive;
+    /*another way of writing*/
+    /* border-width: 4px;
+    border-color: green;
+    border-style: solid;*/
+
+    border-radius: 12px;
+}
+image{
+    height:333px;
+    width: 222px;
+    background-image: url('https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png');
+    /* background-repeat: no-repeat;x for x direction repeat and y for y */
+
+}

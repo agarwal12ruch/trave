@@ -1,0 +1,29 @@
+body{
+    background-image: url(images2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ruch3{
+    border:4px groove rgb(45,56,52);
+    margin: 15px 10px;
+    padding-top: 4px;
+    padding-left: 4px;
+    padding-bottom: -5px;
+    padding-right: 4px;
+    box-shadow: 5px;
+    border-radius: 4px;
+    background-image: url("natback.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ruch1{
+ font-family: "satify";
+ font-weight: lighter;
+}
+.ruch4{
+    font-family: 'Handlee', cursive;
+    font-size:115%;
+    padding: 4px;
+    color: rgb(45,56,52);
+
+}

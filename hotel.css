@@ -1,0 +1,49 @@
+body{
+    background-image: url("point3d-commercial-imaging-ltd-oxeCZrodz78-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c3{
+  margin: 3vw 3vw -11vw 71vw; 
+  background-color: rgb(209, 219, 229); 
+  border:2px solid black;
+  max-width: 12vw;
+  max-height: 30vw;
+  padding: 2.5vw;
+}
+.c1{
+    font-size: 4vw;
+    font-family: 'Poltawski Nowy', serif;
+    margin:-18vw 5vw -6vw 14vw;
+}
+.c2{
+    font-size: 1.5vw;
+    margin:6vw 5vw -2vw 23vw;
+    font-family: 'Poltawski Nowy', serif;
+}
+.c4{
+    padding: 1vw 1vw 1vw 1vw;
+}
+input[type=date], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+input[type=submit] {
+        width: 100%;
+        background-color: #b56036;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+  .c5{
+    text-align: center;
+    font-size: 1.5vw;
+  }

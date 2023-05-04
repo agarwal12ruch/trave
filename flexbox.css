@@ -1,0 +1,40 @@
+.con{
+    border: 2px groove black;
+    height: 500px;
+    width:100%;
+    display:flex;
+    /*flex proper for container*/
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse;
+    flex-direction: row-reverse; */
+    flex-wrap: wrap;
+    /* justify-content: center;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    align-items: center; */
+}
+.ruch1{
+    height: 200px;
+    width:200px;
+    border: 2px solid rgb(209, 25, 25);
+    background-color: rgb(247, 238, 120);
+    margin: 12px;
+    padding: 2px;
+}
+#item1{
+    /*higher the order later it shows  
+    /* order: 19; */
+    /* flex-grow: 2; */
+    flex-basis: 320px;
+    /*to set item width in row direction
+    /*to set item height in column direction*/
+
+}
+#item2{
+
+}
+#item3{
+  order: 8;  
+  align-self: flex-end;
+}
+

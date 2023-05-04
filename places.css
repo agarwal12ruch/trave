@@ -1,0 +1,33 @@
+.ruch2{
+    font-family: 'Dancing Script', cursive;
+    border-bottom: 3px groove rgb(231 159 225);
+}
+body{
+    background-image: url("image3.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ruch5{
+    margin-left: 408px;
+    margin-right:auto;
+    margin-top:-33px;
+    margin-bottom:4px;
+    width: 30%;
+    border: 3px dashed rgb(85 37 37);
+}
+.ruch3{
+    font-size: 34px;
+    color: rgb(5, 6, 87);
+    text-shadow: 4px;
+}
+.ruch4{
+    font-size: 25px;
+    color: rgb(9 34 9);
+}
+#ruch1{
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    color:rgb(5 87 31);
+    text-decoration: underline;
+}
